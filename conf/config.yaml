@@ -1,0 +1,12 @@
+
+microservice:
+  serviceAddress: ":8008"
+  serviceName: "testResolve"
+  consulAddress: "192.168.1.109:8500"
+
+database:
+  host: "192.168.1.109"
+  port: "3306"
+  username: "root"
+  password: "root"
+  dbname: "data"
